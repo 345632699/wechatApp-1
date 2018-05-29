@@ -57,7 +57,7 @@
         <counter1 @index-emit.user="counterEmit" />
       </view>
 
-      <text class="testcounter">计数组件2: </text>
+      <text class="testcounter">计数组件3: </text>
 
       <view class="counterview">
         <counter2 :num.sync="mynum"></counter2>
